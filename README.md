@@ -1,5 +1,7 @@
 ℹ️ℹ️  Features:
+
 Cirrhosis-Related Features:
+
 Status – Disease progression status
 Drug – Treatment type administered
 Age & Sex – Patient demographics
@@ -11,7 +13,9 @@ Copper & Alk_Phos – Liver metabolism markers
 SGOT & Platelets – Liver enzyme and blood clotting factors
 Prothrombin – Blood coagulation time
 Stage – Disease severity classification
+
 💖💖 Heart Disease-Related Features:
+
 Chest Pain Type – Classification of chest discomfort
 RestingBP – Resting blood pressure levels
 Cholesterol – Serum cholesterol concentration
